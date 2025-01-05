@@ -1,2 +1,2 @@
-# EKS-Terraform-Jenkins-New
-EKS-Terraform-Jenkins-New
+# EKS-Terraform-Jenkins
+EKS-Terraform-Jenkins
